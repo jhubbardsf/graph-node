@@ -11,6 +11,11 @@ For detailed instructions and more context, check out the [Getting Started Guide
 
 ## Quick Start
 
+### Rift Local Devnet Setup
+
+1. `cd docker`
+2. `docker compose up`
+
 ### Prerequisites
 
 To build and run this project you need to have the following installed on your system:
